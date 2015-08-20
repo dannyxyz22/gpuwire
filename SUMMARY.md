@@ -2,4 +2,5 @@
 
 * Intro
 * Setting up
+* Copying
 
