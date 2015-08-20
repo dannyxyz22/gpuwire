@@ -2,5 +2,5 @@
 
 * Intro
 * Setting up
-* Copying
+* [Copying](copying.md)
 
