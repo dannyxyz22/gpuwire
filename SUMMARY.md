@@ -1,6 +1,6 @@
 # Summary
 
 * Intro
-* Setting up
+* [Setting up](setting_up.md)
 * [Copying](copying.md)
 
