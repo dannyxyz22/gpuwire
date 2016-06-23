@@ -1,4 +1,4 @@
 # gpuwire
 Automatically exported from code.google.com/p/gpuwire
-The first description.
+Please, check Master Thesis pdf.
 ![This is the image description](plane.bmp)
